@@ -3,7 +3,7 @@
 ## Artemis Financial Portfolio Reflection
 
 1. Briefly summarize your client, Artemis Financial, and its software requirements.
-(We’ll fill this in next)
+Artemis Financial was the client, and the goal was to improve the security of its software application used for secure financial services communication. The company needed vulnerabilities identified and mitigated while maintaining software functionality. This included implementing secure communications through encryption, using industry standard secure coding practices, and analyzing dependencies for risks. The issue being addressed was strengthening confidentiality, integrity, and protection of customer financial data while ensuring the application remained reliable.
 
 2. What did you do well when finding security vulnerabilities?
 (We’ll fill this in next)
